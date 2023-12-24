@@ -1,3 +1,5 @@
+create database mercado_libre;
+
 USE mercado_libre;
 -- Tabla CLIENTES
 CREATE TABLE CLIENTES (
